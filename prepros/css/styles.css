@@ -1,0 +1,4 @@
+body{
+    /* background: -webkit-gradient(left, red, orange, yellow, green, blue); background: -prefix-linear-gradient(left, red, orange, yellow, green, blue); */
+    background: linear-gradient(to right, red, orange, yellow, green, blue);
+}

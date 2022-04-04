@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #333;
+    color: lightcoral;
+    font-size: 10px;
+}
+.title{
+    font-size: 2em;
+}

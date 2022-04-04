@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #333;
+    color: #fff;
+}
+
+.box{
+    background-color: darkcyan;
+    width: 200px;
+    padding: 50px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    /* border-radius: 30px; */
+    /* box-shadow: inset -5px -5px 10px 0 */
+    box-shadow: 5px 5px red, 10px 10px;
+}
